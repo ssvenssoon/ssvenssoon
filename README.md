@@ -4,20 +4,20 @@ I am a front-end developer student currently studying at IT-Högskolan in Gothen
 
 Here are some of my competencies in web development that I have acquired so far:
 
-CMS
-Wordpress
-MySQL
-PHP
-Laravel
-JavaScript
-React.js
-Vue.js
-Responsive webbdesign
-HTML
-CSS
-Node.js
-Git
-UX-UI design
-Agile software development
+CMS |
+Wordpress |
+MySQL |
+PHP |
+Laravel |
+JavaScript 
+React.js |
+Vue.js |
+Responsive webbdesign |
+HTML |
+CSS |
+Node.js |
+Git |
+UX-UI design |
+Agile software development |
 
 
