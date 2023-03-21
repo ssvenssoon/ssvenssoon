@@ -1,16 +1,23 @@
-### Hi there 👋
+Hello there! 👋
 
-<!--
-**ssvenssoon/ssvenssoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a front-end developer student currently studying at IT-Högskolan in Gothenburg. 
 
-Here are some ideas to get you started:
+Here are some of my competencies in web development that I have acquired so far:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CMS
+Wordpress
+MySQL
+PHP
+Laravel
+JavaScript
+React.js
+Vue.js
+Responsive webbdesign
+HTML
+CSS
+Node.js
+Git
+UX-UI design
+Agile software development
+
+
