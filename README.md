@@ -1,6 +1,6 @@
 Hello there! 👋
 
-I am a front-end developer student currently studying at IT-Högskolan in Gothenburg. 
+I am a fullstack developer student currently studying at IT-Högskolan in Gothenburg. 
 
 Here are some of my competencies in web development that I have acquired so far:
 
